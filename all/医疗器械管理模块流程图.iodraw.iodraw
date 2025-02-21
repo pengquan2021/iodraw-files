@@ -36,11 +36,14 @@
         <mxCell id="Gm2E77HIT6thsClW5yTF-5" value="设备出库信息录入（设备位置、出库时间、借用部门等）&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Gm2E77HIT6thsClW5yTF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gm2E77HIT6thsClW5yTF-6" target="Gm2E77HIT6thsClW5yTF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-6" value="系统更新库存状态&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-7" value="设备出库成功&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gm2E77HIT6thsClW5yTF-3" target="Gm2E77HIT6thsClW5yTF-2">
           <mxGeometry relative="1" as="geometry" />
