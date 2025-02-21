@@ -19,7 +19,7 @@
         <mxCell id="D2VMl5uz6fj_l28SZ4l8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gm2E77HIT6thsClW5yTF-3" target="Gm2E77HIT6thsClW5yTF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D2VMl5uz6fj_l28SZ4l8-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D2VMl5uz6fj_l28SZ4l8-2">
+        <mxCell id="D2VMl5uz6fj_l28SZ4l8-3" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D2VMl5uz6fj_l28SZ4l8-2">
           <mxGeometry x="-0.17" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -34,13 +34,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-5" value="设备出库信息录入（设备位置、出库时间、借用部门等）&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Gm2E77HIT6thsClW5yTF-6" target="Gm2E77HIT6thsClW5yTF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-6" value="系统更新库存状态&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-7" value="设备出库成功&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="740" width="120" height="60" as="geometry" />
