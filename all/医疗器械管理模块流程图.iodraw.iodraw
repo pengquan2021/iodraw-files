@@ -8,22 +8,22 @@
           <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-2" value="库存充足&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-3" value="系统验证库存情况（是否有库存）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-4" value="库存不足，提示补货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-5" value="设备出库信息录入（设备位置、出库时间、借用部门等）&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="554.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-6" value="系统更新库存状态&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-7" value="设备出库成功&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
