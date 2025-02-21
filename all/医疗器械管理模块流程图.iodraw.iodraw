@@ -10,8 +10,8 @@
         <mxCell id="Gm2E77HIT6thsClW5yTF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gm2E77HIT6thsClW5yTF-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="80" height="80" as="geometry" />
+        <mxCell id="Gm2E77HIT6thsClW5yTF-3" value="系统验证库存情况（是否有库存）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
