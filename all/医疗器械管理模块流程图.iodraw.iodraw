@@ -13,6 +13,14 @@
         <mxCell id="Gm2E77HIT6thsClW5yTF-2" value="库存充足&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Gm2E77HIT6thsClW5yTF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gm2E77HIT6thsClW5yTF-3" target="Gm2E77HIT6thsClW5yTF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gm2E77HIT6thsClW5yTF-12" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gm2E77HIT6thsClW5yTF-11">
+          <mxGeometry x="-0.016" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Gm2E77HIT6thsClW5yTF-3" value="系统验证库存情况（是否有库存）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="220" height="100" as="geometry" />
         </mxCell>
