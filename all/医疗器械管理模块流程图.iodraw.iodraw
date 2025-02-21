@@ -19,8 +19,11 @@
         <mxCell id="Gm2E77HIT6thsClW5yTF-5" value="设备出库信息录入（设备位置、出库时间、借用部门等）&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gm2E77HIT6thsClW5yTF-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gm2E77HIT6thsClW5yTF-6" value="系统更新库存状态&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gm2E77HIT6thsClW5yTF-7" value="设备出库成功&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
