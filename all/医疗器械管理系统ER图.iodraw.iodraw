@@ -51,10 +51,15 @@
         <mxCell id="EM1e1DiBrjep-tDmmBEN-18" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;PurchaseOrder（采购订单）&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EM1e1DiBrjep-tDmmBEN-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EM1e1DiBrjep-tDmmBEN-10">
+        <mxCell id="EM1e1DiBrjep-tDmmBEN-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EM1e1DiBrjep-tDmmBEN-10" target="EM1e1DiBrjep-tDmmBEN-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="340" as="sourcePoint" />
             <mxPoint x="630" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM1e1DiBrjep-tDmmBEN-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EM1e1DiBrjep-tDmmBEN-19">
+          <mxGeometry x="-0.7733" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
