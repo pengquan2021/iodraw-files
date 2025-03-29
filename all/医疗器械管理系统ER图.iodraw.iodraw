@@ -76,6 +76,16 @@
             <mxPoint x="520" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EM1e1DiBrjep-tDmmBEN-25" value="１" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EM1e1DiBrjep-tDmmBEN-24">
+          <mxGeometry x="0.7527" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EM1e1DiBrjep-tDmmBEN-26" value="ｎ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EM1e1DiBrjep-tDmmBEN-24">
+          <mxGeometry x="-0.7018" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
