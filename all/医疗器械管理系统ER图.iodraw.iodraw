@@ -27,15 +27,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-10" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;MedicalDevice（医疗器械）&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-12" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Inventory&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;（库存）&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EM1e1DiBrjep-tDmmBEN-12" target="EM1e1DiBrjep-tDmmBEN-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="340" as="sourcePoint" />
-            <mxPoint x="630" y="290" as="targetPoint" />
+            <mxPoint x="580" y="460" as="sourcePoint" />
+            <mxPoint x="630" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-16" value="ｎ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EM1e1DiBrjep-tDmmBEN-13">
@@ -49,12 +49,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-18" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;PurchaseOrder（采购订单）&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EM1e1DiBrjep-tDmmBEN-10" target="EM1e1DiBrjep-tDmmBEN-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="340" as="sourcePoint" />
-            <mxPoint x="630" y="290" as="targetPoint" />
+            <mxPoint x="580" y="460" as="sourcePoint" />
+            <mxPoint x="630" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-20" value="１" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EM1e1DiBrjep-tDmmBEN-19">
@@ -68,12 +68,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-23" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;RepairRecord（维修记录）&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EM1e1DiBrjep-tDmmBEN-23" target="EM1e1DiBrjep-tDmmBEN-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="340" as="sourcePoint" />
-            <mxPoint x="520" y="290" as="targetPoint" />
+            <mxPoint x="470" y="460" as="sourcePoint" />
+            <mxPoint x="520" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-25" value="１" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EM1e1DiBrjep-tDmmBEN-24">
@@ -87,12 +87,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-27" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Supplier&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;（供应商）&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EM1e1DiBrjep-tDmmBEN-27" target="EM1e1DiBrjep-tDmmBEN-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="460" as="sourcePoint" />
-            <mxPoint x="710" y="410" as="targetPoint" />
+            <mxPoint x="660" y="580" as="sourcePoint" />
+            <mxPoint x="710" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-30" value="１" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EM1e1DiBrjep-tDmmBEN-28">
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="290" width="130" height="80" as="geometry" />
+          <mxGeometry x="412.5" y="300" width="115" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
