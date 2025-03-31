@@ -16,7 +16,7 @@
         <mxCell id="6sPQofcYFc7MHeYYV6di-4" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;Inventory&lt;/strong&gt;&lt;div&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;（库存）&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6sPQofcYFc7MHeYYV6di-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6sPQofcYFc7MHeYYV6di-5" value="出库" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-6" value="供应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -26,7 +26,7 @@
           <mxGeometry x="420" y="560" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="260" width="90" height="60" as="geometry" />
+          <mxGeometry x="420" y="400" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
