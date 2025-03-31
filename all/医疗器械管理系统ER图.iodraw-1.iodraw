@@ -248,7 +248,7 @@
         <mxCell id="6sPQofcYFc7MHeYYV6di-63" value="上次更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="410" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6sPQofcYFc7MHeYYV6di-64" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6sPQofcYFc7MHeYYV6di-64" value="注册号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="770" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-65" value="生产厂家" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -288,7 +288,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-72" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="690" width="60" height="40" as="geometry" />
+          <mxGeometry x="560" y="780" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-73" value="器械型号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="710" width="60" height="40" as="geometry" />
