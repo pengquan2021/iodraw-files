@@ -25,8 +25,14 @@
         <mxCell id="6sPQofcYFc7MHeYYV6di-7" value="入库" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="560" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6sPQofcYFc7MHeYYV6di-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6sPQofcYFc7MHeYYV6di-8" value="维修" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6sPQofcYFc7MHeYYV6di-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="450" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
