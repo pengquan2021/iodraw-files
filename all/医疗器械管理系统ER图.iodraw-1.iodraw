@@ -234,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-59" value="库存数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="580" width="60" height="40" as="geometry" />
+          <mxGeometry x="270" y="670" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-60" value="库存id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="660" width="60" height="40" as="geometry" />
@@ -242,8 +242,8 @@
         <mxCell id="6sPQofcYFc7MHeYYV6di-61" value="库存位置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="710" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6sPQofcYFc7MHeYYV6di-62" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="720" width="60" height="40" as="geometry" />
+        <mxCell id="6sPQofcYFc7MHeYYV6di-62" value="库存状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-63" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="770" width="60" height="40" as="geometry" />
