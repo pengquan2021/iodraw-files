@@ -252,10 +252,10 @@
           <mxGeometry x="790" y="600" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-65" value="生产厂家" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="650" width="60" height="40" as="geometry" />
+          <mxGeometry x="710" y="720" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-66" value="器械id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="650" width="60" height="40" as="geometry" />
+          <mxGeometry x="500" y="720" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-67" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6sPQofcYFc7MHeYYV6di-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -291,10 +291,10 @@
           <mxGeometry x="790" y="550" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-73" value="器械型号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="650" width="60" height="40" as="geometry" />
+          <mxGeometry x="640" y="720" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-74" value="器械名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="650" width="60" height="40" as="geometry" />
+          <mxGeometry x="570" y="720" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-75" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="440" width="60" height="40" as="geometry" />
@@ -303,7 +303,7 @@
           <mxGeometry x="790" y="500" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-77" value="当前状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="650" width="60" height="40" as="geometry" />
+          <mxGeometry x="780" y="720" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6sPQofcYFc7MHeYYV6di-66" target="6sPQofcYFc7MHeYYV6di-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
