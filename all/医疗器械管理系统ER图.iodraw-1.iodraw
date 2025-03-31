@@ -43,7 +43,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EM1e1DiBrjep-tDmmBEN-17" value="１" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EM1e1DiBrjep-tDmmBEN-13" vertex="1" connectable="0">
+        <mxCell id="EM1e1DiBrjep-tDmmBEN-17" value="n&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EM1e1DiBrjep-tDmmBEN-13" vertex="1" connectable="0">
           <mxGeometry x="0.5257" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
