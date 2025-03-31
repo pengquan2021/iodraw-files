@@ -243,7 +243,7 @@
           <mxGeometry x="290" y="660" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-62" value="库存状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="660" width="60" height="40" as="geometry" />
+          <mxGeometry x="380" y="660" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-63" value="上次更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="450" width="60" height="40" as="geometry" />
