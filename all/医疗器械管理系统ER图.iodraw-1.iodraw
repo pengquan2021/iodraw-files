@@ -420,7 +420,7 @@
           <mxGeometry x="750" y="450" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-103" value="费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="490" width="60" height="40" as="geometry" />
+          <mxGeometry x="750" y="500" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
