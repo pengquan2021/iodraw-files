@@ -362,17 +362,17 @@
         <mxCell id="6sPQofcYFc7MHeYYV6di-88" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6sPQofcYFc7MHeYYV6di-89" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="180" width="60" height="40" as="geometry" />
+        <mxCell id="6sPQofcYFc7MHeYYV6di-89" value="供应商id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="190" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-91" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="190" width="60" height="40" as="geometry" />
+          <mxGeometry x="660" y="110" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-92" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="200" width="60" height="40" as="geometry" />
+          <mxGeometry x="760" y="130" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-93" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="210" width="60" height="40" as="geometry" />
+          <mxGeometry x="780" y="190" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
