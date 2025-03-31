@@ -249,9 +249,9 @@
           <mxGeometry x="130" y="410" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-64" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="740" width="60" height="40" as="geometry" />
+          <mxGeometry x="450" y="770" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6sPQofcYFc7MHeYYV6di-65" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6sPQofcYFc7MHeYYV6di-65" value="生产厂家" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="770" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-66" value="器械id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
