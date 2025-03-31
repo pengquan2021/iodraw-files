@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EM1e1DiBrjep-tDmmBEN-40" value="管理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="415" y="360" width="115" height="60" as="geometry" />
+          <mxGeometry x="412.5" y="360" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="36ZSKmSfRv21ygT_tU3J-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EM1e1DiBrjep-tDmmBEN-40" target="EM1e1DiBrjep-tDmmBEN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
