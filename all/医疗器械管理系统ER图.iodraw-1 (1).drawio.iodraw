@@ -374,10 +374,10 @@
           <mxGeometry x="500" y="510" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-112" value="维修内容" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="400" width="60" height="40" as="geometry" />
+          <mxGeometry x="340" y="400" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-113" value="维修状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="460" width="60" height="40" as="geometry" />
+          <mxGeometry x="340" y="440" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6sPQofcYFc7MHeYYV6di-114" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6sPQofcYFc7MHeYYV6di-8" target="6sPQofcYFc7MHeYYV6di-112" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
