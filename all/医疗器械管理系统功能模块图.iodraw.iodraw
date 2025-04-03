@@ -10,7 +10,7 @@
         <mxCell id="Yo0FbJGOvC6Z3MlOpd_i-3" value="注册与登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yo0FbJGOvC6Z3MlOpd_i-4" value="医疗器械录入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yo0FbJGOvC6Z3MlOpd_i-4" value="医疗器械信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yo0FbJGOvC6Z3MlOpd_i-5" value="医疗器械查询与修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
