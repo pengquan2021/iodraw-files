@@ -7,6 +7,18 @@
         <mxCell id="n783dvTY9wLPOHu4mEKy-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;view层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n783dvTY9wLPOHu4mEKy-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;view层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n783dvTY9wLPOHu4mEKy-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;view层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n783dvTY9wLPOHu4mEKy-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;view层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n783dvTY9wLPOHu4mEKy-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;view层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
