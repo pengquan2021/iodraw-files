@@ -7,11 +7,8 @@
         <mxCell id="Yo0FbJGOvC6Z3MlOpd_i-1" value="器械管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yo0FbJGOvC6Z3MlOpd_i-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="120" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Yo0FbJGOvC6Z3MlOpd_i-3" value="注册与登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="80" width="90" height="60" as="geometry" />
+          <mxGeometry x="290" y="200" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
