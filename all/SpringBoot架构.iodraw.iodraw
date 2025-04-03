@@ -20,7 +20,7 @@
           <mxGeometry x="320" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-6" value="视图层：&lt;div&gt;展示页面给用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="200" width="180" height="70" as="geometry" />
+          <mxGeometry x="550" y="205" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-7" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="30" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="550" y="510" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-13" value="实体层：定义与数据库表一致的Java类，包括属性和get/set方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="635" width="180" height="70" as="geometry" />
+          <mxGeometry x="560" y="615" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
