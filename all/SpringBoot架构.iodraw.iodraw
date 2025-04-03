@@ -20,7 +20,7 @@
           <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-6" value="视图层：&lt;div&gt;展示页面给用户&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="200" width="200" height="70" as="geometry" />
+          <mxGeometry x="550" y="200" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-7" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="30" height="60" as="geometry" />
