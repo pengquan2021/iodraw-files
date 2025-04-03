@@ -26,7 +26,7 @@
             <mxPoint x="438" y="160" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="438" y="190" />
-              <mxPoint x="130" y="190" />
+              <mxPoint x="120" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,7 +77,7 @@
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vyXMi-Jx4NHG9t_uPUP3-3" target="vyXMi-Jx4NHG9t_uPUP3-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="375" as="targetPoint" />
+            <mxPoint x="355" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vyXMi-Jx4NHG9t_uPUP3-3" target="vyXMi-Jx4NHG9t_uPUP3-25" edge="1">
@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-3" value="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;库存管理模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="265" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vyXMi-Jx4NHG9t_uPUP3-4" target="vyXMi-Jx4NHG9t_uPUP3-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -180,10 +180,10 @@
           <mxGeometry x="-110" y="670" width="30" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体&quot;&gt;库存数量变更记录&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="375" width="30" height="210" as="geometry" />
+          <mxGeometry x="270" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体&quot;&gt;库存数量查询与管理&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="375" width="30" height="210" as="geometry" />
+          <mxGeometry x="230" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体&quot;&gt;医疗器械信息录入&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="375" width="30" height="210" as="geometry" />
@@ -216,7 +216,7 @@
           <mxGeometry x="460" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-38" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;库存预警与通知&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="375" width="30" height="210" as="geometry" />
+          <mxGeometry x="310" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-40" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体&quot;&gt;维修费用管理&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="375" width="30" height="210" as="geometry" />
@@ -231,10 +231,10 @@
           <mxGeometry x="970" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="3RMqrZcRQ9KGA--dFEMX-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体&quot;&gt;器械请领&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="375" width="30" height="210" as="geometry" />
+          <mxGeometry x="350" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="3RMqrZcRQ9KGA--dFEMX-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体&quot;&gt;器械发放&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="375" width="30" height="210" as="geometry" />
+          <mxGeometry x="394" y="375" width="30" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
