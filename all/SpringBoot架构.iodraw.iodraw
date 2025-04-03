@@ -32,13 +32,13 @@
           <mxGeometry x="560" y="310" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-10" value="业务逻辑层：处理核心业务逻辑，调用mapper层访问数据（定义接口，impl类实现接口）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="410" width="180" height="60" as="geometry" />
+          <mxGeometry x="550" y="410" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-11" value="数据访问层：直接访问数据库，执行SQL语句（增删改查），将数据库数据映射为model对象返回给service层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="510" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="n783dvTY9wLPOHu4mEKy-13" value="实体层：定义与数据库表一致的Java类，包括属性和get/set方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="630" width="180" height="40" as="geometry" />
+          <mxGeometry x="550" y="630" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
