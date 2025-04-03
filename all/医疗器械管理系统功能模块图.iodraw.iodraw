@@ -213,7 +213,7 @@
           <mxGeometry x="460" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-38" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;库存预警与通知&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="375" width="30" height="210" as="geometry" />
+          <mxGeometry x="399" y="375" width="30" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vyXMi-Jx4NHG9t_uPUP3-40" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体&quot;&gt;维修费用管理&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="375" width="30" height="210" as="geometry" />
