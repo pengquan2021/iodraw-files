@@ -37,7 +37,7 @@
         <mxCell id="QGExq8XC39T7VyY6bwNE-11" value="维修记录添加与查询" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="320" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGExq8XC39T7VyY6bwNE-12" value="采购审批与记录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QGExq8XC39T7VyY6bwNE-12" value="维修进度跟踪与状态管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QGExq8XC39T7VyY6bwNE-13" value="采购费用统计与分析" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
