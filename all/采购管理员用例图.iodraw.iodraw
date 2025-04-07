@@ -51,7 +51,7 @@
         <mxCell id="t_NooncJK_SbSyOW1lLk-23" value="供应商信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="355" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-24" value="数据统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t_NooncJK_SbSyOW1lLk-24" value="库存预警与通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="565" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
