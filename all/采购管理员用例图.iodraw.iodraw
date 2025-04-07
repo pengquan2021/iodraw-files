@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t_NooncJK_SbSyOW1lLk-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="210" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="110" width="90" height="60" as="geometry" />
@@ -14,13 +14,19 @@
           <mxGeometry x="334" y="260" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="270" width="90" height="60" as="geometry" />
+          <mxGeometry x="340" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="444" y="180" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
