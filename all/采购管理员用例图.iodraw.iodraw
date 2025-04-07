@@ -40,7 +40,7 @@
         <mxCell id="t_NooncJK_SbSyOW1lLk-20" value="采购订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="285" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-21" value="库存预警与通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t_NooncJK_SbSyOW1lLk-21" value="采购审批与记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="425" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-22" value="器械发放" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
