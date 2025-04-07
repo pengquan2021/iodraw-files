@@ -22,11 +22,6 @@
         <mxCell id="t_NooncJK_SbSyOW1lLk-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -34,25 +29,25 @@
           <mxGeometry x="160" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-18" value="注册与登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="145" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="180" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-19" value="用户信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="215" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="250" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-20" value="采购订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="285" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="320" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-21" value="采购审批与记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="425" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-22" value="采购费用统计与分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="495" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="530" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-23" value="供应商信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="355" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="390" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t_NooncJK_SbSyOW1lLk-24" value="库存预警与通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="565" width="90" height="60" as="geometry" />
+          <mxGeometry x="370" y="600" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
