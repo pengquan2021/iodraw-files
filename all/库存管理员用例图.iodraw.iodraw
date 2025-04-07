@@ -17,16 +17,16 @@
           <mxGeometry x="324" y="250" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-5" value="库存预警与通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="90" height="60" as="geometry" />
+          <mxGeometry x="324" y="390" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-6" value="器械发放" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="490" width="90" height="60" as="geometry" />
+          <mxGeometry x="324" y="460" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-7" value="库存数量变更记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="320" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-8" value="数据统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="560" width="90" height="60" as="geometry" />
+          <mxGeometry x="324" y="530" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-9" value="数据可视化展示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="90" height="60" as="geometry" />
