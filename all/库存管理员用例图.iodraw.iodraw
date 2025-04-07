@@ -16,11 +16,11 @@
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-4" value="库存数量查询与管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="250" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sf4bgTXVbEQ4zIuBws5Q-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="450" width="90" height="60" as="geometry" />
+        <mxCell id="sf4bgTXVbEQ4zIuBws5Q-5" value="库存预警与通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="90" height="60" as="geometry" />
+          <mxGeometry x="340" y="480" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sf4bgTXVbEQ4zIuBws5Q-7" value="库存数量变更记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="330" width="90" height="60" as="geometry" />
