@@ -43,7 +43,7 @@
         <mxCell id="QGExq8XC39T7VyY6bwNE-13" value="采购费用统计与分析" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="530" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGExq8XC39T7VyY6bwNE-14" value="供应商信息管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QGExq8XC39T7VyY6bwNE-14" value="维修费用管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="390" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QGExq8XC39T7VyY6bwNE-15" value="库存预警与通知" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
