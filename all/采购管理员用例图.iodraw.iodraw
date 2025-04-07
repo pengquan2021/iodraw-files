@@ -4,29 +4,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t_NooncJK_SbSyOW1lLk-1" value="采购管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="220" width="30" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="110" width="90" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="260" width="90" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="90" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="400" width="90" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="180" width="90" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="90" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_NooncJK_SbSyOW1lLk-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="510" width="90" height="60" as="geometry" />
+        <mxCell id="t_NooncJK_SbSyOW1lLk-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_NooncJK_SbSyOW1lLk-17" target="t_NooncJK_SbSyOW1lLk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-17" value="库存管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-18" value="注册与登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="145" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-19" value="用户信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="215" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-20" value="库存数量查询与管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="285" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-21" value="库存预警与通知" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="425" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-22" value="器械发放" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="495" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-23" value="库存数量变更记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="355" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-24" value="数据统计" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="565" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_NooncJK_SbSyOW1lLk-25" value="数据可视化展示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="635" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
